@@ -1,0 +1,15 @@
+August Matcha
+
+Fondo rosa coral #FBA7A5
+Fondo azul glaciar #BBD1E1
+Letras de ambas versiones y loto coral #481117
+Loto de la versión azul #FFFFFF
+
+Rubik Black (peso 900), alternativa para «august».
+https://fonts.google.com/specimen/Rubik
+
+DM Sans Bold (peso 700), alternativa para «MATCHA» en mayúsculas y con espacio entre letras.
+https://fonts.google.com/specimen/DM+Sans
+
+Las letras del logo original se dibujaron al generar la imagen. Estas dos fuentes sirven como alternativas.
+El SVG del loto se redibujó a partir de la silueta de cinco pétalos del logo. El PNG se exportó a 1600 píxeles de ancho con fondo transparente.
